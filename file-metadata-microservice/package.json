@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "file-metadata-microservice",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^5.0.0-alpha.2",
+        "cors": "^2.8.1",
+        "multer": "^1.4.2"
+    }
+}

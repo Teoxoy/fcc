@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "name": "exercise-tracker",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.4",
+        "mongoose": "^5.7.9",
+        "mongodb": "^3.3.4",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "shortid": "^2.2.15"
+    }
+}
